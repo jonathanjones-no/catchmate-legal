@@ -2,7 +2,7 @@
 title: Terms of Service
 ---
 
-These terms and conditions apply to the Catchmate app (hereby referred to as "Application") for mobile devices that was created by Jonathan Jones (hereby referred to as "Service Provider") as a Free service.
+These terms and conditions apply to the Catchmate app (hereby referred to as "Application") for mobile devices that was created by CatchMate, LLC (hereby referred to as "Service Provider") as a Free service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
 
@@ -38,5 +38,5 @@ These terms and conditions are effective as of 2026-03-12
 
 ## Contact Us
 
-If you have any questions or suggestions about the Terms of Service, please do not hesitate to contact the Service Provider at jonathanjones.no@gmail.com.
+If you have any questions or suggestions about the Terms of Service, please do not hesitate to contact the Service Provider at support@catchmate.app.
 

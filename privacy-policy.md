@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-This privacy policy applies to the Catchmate app (hereby referred to as "Application") for mobile devices that was created by Jonathan Jones (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the Catchmate app (hereby referred to as "Application") for mobile devices that was created by CatchMate, LLC (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 ## Information Collection and Use
 
@@ -65,13 +65,13 @@ You can stop all collection of information by the Application easily by uninstal
 
 ## Data Retention Policy
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, you may do so by using the Account Deletion feature within the Application (Settings > Account > Delete Account), or by contacting them at jonathanjones.no@gmail.com and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, you may do so by using the Account Deletion feature within the Application (Settings > Account > Delete Account), or by contacting them at support@catchmate.app and they will respond in a reasonable time.
 
 ## Children
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 18.
 
-The Application does not address anyone under the age of 18. The Service Provider does not knowingly collect personally identifiable information from children under 18 years of age. In the case the Service Provider discovers that a person under 18 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (jonathanjones.no@gmail.com) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 18. The Service Provider does not knowingly collect personally identifiable information from children under 18 years of age. In the case the Service Provider discovers that a person under 18 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (support@catchmate.app) so that they will be able to take the necessary actions.
 
 ## Security
 
@@ -89,5 +89,5 @@ By using the Application, you are consenting to the processing of your informati
 
 ## Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at jonathanjones.no@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at support@catchmate.app.
 
